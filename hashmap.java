@@ -35,6 +35,9 @@ class hashmap
             System.out.println(e.getKey());
              System.out.println(e.getValue());
         }
+         // removing
+        Map.remove("sonu");
+        System.out.println(Map);
         
     }
 }
